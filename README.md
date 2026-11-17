@@ -1,6 +1,6 @@
 Hi, I'm Ali! 👋
 
-Python Developer | Aspiring Data Scientist
+Python Developer | Aspiring Data Scientist | SQL | Data Visualization
 
 I'm passionate about programming, data analysis, and learning new technologies.
 
