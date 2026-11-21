@@ -53,8 +53,7 @@
 </div>
 
 ###
-
-<h2 align="left">📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mobo2r-ali&show_icons=true&theme=dark" height="165" />
@@ -62,13 +61,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobo2r-ali&layout=compact&theme=dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobo2r-ali&layout=compact&theme=dark" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mobo2r-ali&theme=github-dark" width="95%" />
 </p>
-
 <br clear="both">
 
 <h2 data-importer="text" align="left">📫 Connect With Me</h2>
