@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left">📊 Interested in Data Analysis, Data Science, and Machine Learning.<br>🐍 Working with Python and its data analysis libraries.<br>🗄️ Learning and practicing SQL for data querying and analysis.<br>📈 Experienced with Exploratory Data Analysis (EDA) and data visualization through personal projects.<br>🚀 Continuously learning and building projects to improve my technical skills.</p>
+<p data-importer="text" align="left">📊 Interested in Data Analysis, Data Science, and Machine Learning.<br>🐍 Working with Python and its data analysis libraries.<br>🗄️ Learning and practicing SQL for data querying and analysis.<br>📈 Practicing Exploratory Data Analysis (EDA) and data visualization through hands-on projects.<br>🚀 Continuously learning and building projects to improve my technical skills.</p>
 
 ###
 
