@@ -1,12 +1,12 @@
-Hi, I'm Ali! 👋
+# **Hi, I'm Ali! 👋**
 
-Python Developer | Aspiring Data Scientist | SQL | Data Visualization
+### **Python Developer | Aspiring Data Scientist | SQL | Data Visualization**
 
-I'm passionate about programming, data analysis, and learning new technologies.
+*I'm passionate about programming, data analysis, and learning new technologies.*
 
-Currently, I'm improving my skills in Python, SQL, and Data Science by building practical projects.
+*Currently, I'm improving my skills in Python, SQL, and Data Science by building practical projects.*
 
-🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -18,22 +18,25 @@ Currently, I'm improving my skills in Python, SQL, and Data Science by building 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  
 
-</p>📂 My Projects
+</p>
+
+## 📂 My Projects
+
+- **📊 Sales Data Analyzer :** (https://github.com/mobo2r-ali/sales-data-analyzer)
+- **💰 Expense Tracker :** (https://github.com/mobo2r-ali/expense-tracker)
 
 
-
-- 📊 "Sales Data Analyzer" (https://github.com/mobo2r-ali/sales-data-analyzer)
-- 💰 "Expense Tracker" (https://github.com/mobo2r-ali/expense-tracker)
-
-🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Python Programming
 - Data Analysis
 - Data Science
 - SQL
 
-🎯 Goals
+## 🎯 Goals
 
 - Build real-world Python projects
 - Improve my data analysis skills
@@ -41,4 +44,4 @@ Currently, I'm improving my skills in Python, SQL, and Data Science by building 
 
 ---
 
-⭐ Thanks for visiting my profile!
+**⭐ Thanks for visiting my profile!**
