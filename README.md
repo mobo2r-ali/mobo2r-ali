@@ -69,6 +69,23 @@
 </p>
 <br clear="both">
 
+<h2 align="left">🎮 My Contribution Game</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mobo2r-ali/mobo2r-ali/output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mobo2r-ali/mobo2r-ali/output/pacman-contribution-graph.svg">
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/mobo2r-ali/mobo2r-ali/output/pacman-contribution-graph.svg"
+      width="100%">
+  </picture>
+</p>
+
 <h2 data-importer="text" align="left">📫 Connect With Me</h2>
 
 ###
