@@ -54,26 +54,20 @@
 
 ###
 
-<br clear="both">
+<h2 align="left">📊 GitHub Statistics</h2>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/mobo2r-ali/mobo2r-ali/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mobo2r-ali&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/mobo2r-ali/mobo2r-ali/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/mobo2r-ali/mobo2r-ali/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&area_color=blue" height="300" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mobo2r-ali&show_icons=true&theme=dark" height="165" />
+  <img src="https://streak-stats.demolab.com?user=mobo2r-ali&theme=dark" height="165" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobo2r-ali&layout=compact&theme=dark" height="165"/>
+</p>
 
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobo2r-ali/mobo2r-ali/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mobo2r-ali/mobo2r-ali/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mobo2r-ali/mobo2r-ali/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mobo2r-ali&theme=github-dark" width="95%" />
+</p>
 
 <br clear="both">
 
