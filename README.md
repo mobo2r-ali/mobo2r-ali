@@ -52,7 +52,100 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
 </div>
 
-###
+<h2 align="left">📂 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 Sales Data Analyzer</h3>
+      <p align="center">
+        A Python project for analyzing sales data and extracting business insights.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/mobo2r-ali/sales-data-analyzer">
+          <strong>View Project →</strong>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💰 Expense Tracker</h3>
+      <p align="center">
+        A Python CLI application for tracking and managing personal expenses.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSV-217346?style=flat" />
+        <img src="https://img.shields.io/badge/Colorama-555555?style=flat" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/mobo2r-ali/expense-tracker">
+          <strong>View Project →</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎬 Movie Data Analyzer</h3>
+      <p align="center">
+        An exploratory data analysis project using IMDb Top 1000 movies data.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/mobo2r-ali/movie-data-analyzer">
+          <strong>View Project →</strong>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📉 Customer Churn Analysis</h3>
+      <p align="center">
+        Analyzing customer churn patterns using Python, SQL and SQLite.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/mobo2r-ali/customer-churn-analysis">
+          <strong>View Project →</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🤖 Bank Marketing Prediction</h3>
+      <p align="center">
+        A machine learning project to predict whether a client will subscribe to a bank term deposit.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/mobo2r-ali/bank-marketing-prediction">
+          <strong>View Project →</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <h2 align="left">📊 GitHub Statistics</h2>
 
 <p align="center">
